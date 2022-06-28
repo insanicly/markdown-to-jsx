@@ -108,6 +108,6 @@
     "url": "https://opencollective.com/markdown-to-jsx"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/insanicly"
+    "access": "public"
   }
 }
